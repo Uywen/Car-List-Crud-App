@@ -1,20 +1,38 @@
 # Car-List-Crud-App
 
-#Simple Crud app where user can:
+User can add details like:
 
--Create
--Read
--Edit
--Delete
+Name of car
 
-User can also edit images by getting the image browser url
+Brand
+
+Make
+
+Owner
+
+Previous
+
+and an Image
+
+#Simple Crud app for a car where user can:
+
+Create
+
+Read
+
+Edit
+
+Delete
+
+User can also edit images by getting the image browser url on google
 
 # Created using
 
--express for the backend
+-express for the backend,
+
 -react for the frontend
 
-#How to run app on local machine
+# How to run app on local machine
 
 Open the backend and fontend in integrated terminals then type "npm install" in both terminals to 
 install the node modules.The type in "npm start" in each terminal for the backend and frontend
